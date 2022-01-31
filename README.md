@@ -1,5 +1,5 @@
 # Cyclic Redundancy Check (CRC)
-## Implementation of a Cyclic Redundancy Check (CRC) in Java.
+## Implementation of a Cyclic Redundancy Check (CRC) in C++.
 
 A cyclic redundancy check (CRC) is an error-detecting code commonly used in digital networks and storage devices to detect accidental changes to raw data.
 
